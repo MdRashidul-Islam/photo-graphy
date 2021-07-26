@@ -35,3 +35,8 @@ h1 {
 .social-icon a:hover img {
   transform: translateY(-10px);
 }
+
+.gap {
+  position: relative;
+  top: 100px;
+}
